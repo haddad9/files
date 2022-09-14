@@ -1,0 +1,501 @@
+id,nama_usaha,email_usaha,kategori,belum_online,tgl_dibentuk,omset_2020,omset_2021,provinsi
+1,PT Sihombing,jumari.prastuti@siregar.co,kuliner,1,2017-11-09,34.48507298962673,44.024188820868105,jawa_timur
+2,UD Mayasari,lthamrin@waskita.net,pengrajin_kulit,0,2010-07-30,48.37288066094375,10.04804087623305,jawa_timur
+3, Usamah Maulana,susanti.latika@hastuti.info,kuliner,0,2015-05-27,17.305106336642353,59.92066466827858,jawa_barat
+4,UD Firmansyah  ,lmardhiyah@prabowo.asia,kuliner,0,2010-12-05,24.302636467506296,53.2216590399593,jawa_tengah
+5,UD Mahendra Permadi,karma.andriani@palastri.name,pengrajin_kulit,1,2005-08-23,65.2466616889872,57.696548840492284,jawa_timur
+6,UD Pradana,mardhiyah.mitra@wacana.go.id,fashion,1,2016-10-18,5.036311110750297,37.63941277577751,jawa_tengah
+7, Susanti,bdamanik@gunawan.asia,pengrajin_kulit,1,2005-03-01,33.18134864575758,69.7731200025278,DKI_jakarta
+8,UD Natsir Waskita ,danuja.thamrin@nurdiyanti.biz.id,fashion,1,2006-08-09,50.30518308022799,4.736276029027332,jawa_tengah
+9,PD Riyanti,osamosir@megantara.asia,pengrajin_kulit,1,2010-11-27,11.99299990914433,29.11837175462782,jawa_tengah
+10,PD Prakasa Gunawan,laksmiwati.salimah@rahmawati.co.id,fashion,0,2017-08-02,4.954698085974301,23.838395755061796,jawa_barat
+11,UD Kuswoy,sadina15@winarno.tv,pengrajin_kulit,1,2008-01-24,11.15666277547888,66.49351465209914,jawa_tengah
+12,CV Namaga Mayasari,upratama@namaga.web.id,kuliner,0,2010-05-18,64.45724765427504,41.10806624621564,jawa_timur
+13,UD Rahmawati,saragih.jatmiko@tarihoran.go.id,fashion,0,2000-11-15,2.352257902746307,56.76671912056584,jawa_barat
+14,UD Prayoga Nurdiyanti ,kajen99@pratiwi.ac.id,agribisnis,1,2002-06-07,14.578624440119103,13.350896703003668,jawa_timur
+15,CV Rahmawati Prasetya ,wirda42@tamba.desa.id,pengrajin_kulit,0,2001-03-05,3.85603826092429,68.54113934552197,jawa_timur
+16,UD Prasetya Hutagalung,eprasetya@lailasari.asia,agribisnis,0,2001-07-06,9.27378004514724,35.7671082607148,jawa_timur
+17,UD Yuliarti Prabowo  ,dimas.widodo@melani.co.id,kuliner,0,2018-03-29,44.063793290980065,35.427929367759695,jawa_timur
+18,CV Purnawati ,gada.nugroho@yuniar.tv,fashion,1,2017-09-06,18.219104688704775,68.01200926510298,jawa_timur
+19,UD Pradana Manullang ,dalima.latupono@purwanti.com,fashion,0,2017-04-05,40.58579880340661,27.716405623906663,jawa_barat
+20,CV Yolanda Irawan  ,uyainah.usman@rahayu.info,pengrajin_kulit,0,2001-03-02,42.018540735271095,28.863008676614918,jawa_timur
+21,PT Habibi,rahayu.agnes@yuniar.in,agribisnis,1,2001-08-18,59.71944454337011,41.64691454752107,jawa_timur
+22,PD Santoso Prayoga,zmulyani@susanti.biz,fashion,0,2005-11-22,2.0437423080227513,10.463432248202892,jawa_tengah
+23, Nurdiyanti ,tasdik18@suryono.ac.id,pengrajin_kulit,1,2011-11-15,59.988066683896804,23.64372657140145,jawa_timur
+24,PD Aryani ,martana11@jailani.biz,agribisnis,1,2007-01-07,43.993451221233784,14.912264256553513,jawa_timur
+25,UD Halim  ,prayitna.wastuti@prasetyo.co.id,agribisnis,1,2010-03-29,12.832125231246506,8.772195953429348,jawa_timur
+26,CV Nababan,tantri67@widiastuti.mil.id,kuliner,0,2003-08-20,54.49616486187719,60.86035372028205,jawa_timur
+27,PD Thamrin Hasanah ,jane26@fujiati.in,kuliner,0,2015-05-07,60.13296247346119,41.95953202318407,DKI_jakarta
+28,PT Oktaviani Suryon,hartati.melinda@rahimah.com,pengrajin_kulit,0,2006-08-04,19.08111067073386,26.210178205525775,jawa_tengah
+29,PT Saefullah,virman50@mustofa.ac.id,fashion,1,2001-05-25,64.45523253203505,29.62394508659915,DKI_jakarta
+30,PT Anggriawan Sihotang,patricia.hutagalung@firgantoro.net,kuliner,0,2015-08-07,32.75035334079236,31.184117571772575,DKI_jakarta
+31,UD Halimah,paramita.budiyanto@setiawan.net,fashion,0,2018-12-17,42.92182174187919,44.95142615684075,jawa_timur
+32, Pudjiastuti ,kasiyah.marpaung@siregar.asia,fashion,0,2000-04-22,68.9518701554127,64.99981405086847,jawa_tengah
+33, Yulianti Winarsih,luis.anggraini@kuswoyo.asia,agribisnis,1,2009-03-03,26.40568344948453,65.41019243017877,jawa_timur
+34, Salahudin Pratama,ajeng.gunawan@lailasari.asia,pengrajin_kulit,0,2017-05-16,57.242520132597306,28.451072362353695,DKI_jakarta
+35,PD Sihombing Lailasari,irsad27@sihotang.my.id,kuliner,1,2014-10-30,23.460291765327224,24.202040741335704,jawa_barat
+36,UD Gunawan Mardhiyah ,lukman.namaga@marbun.co.id,fashion,0,2017-12-27,56.290299298649,32.51745503264922,jawa_tengah
+37,PD Halim,amelia.prasetya@prayoga.com,pengrajin_kulit,0,2008-09-20,42.73811197994123,40.49854925365747,jawa_barat
+38,CV Haryanti,prasetya.genta@suartini.web.id,agribisnis,0,2007-10-26,16.492766869990408,33.25292699378881,DKI_jakarta
+39,CV Novitasari,lailasari.ilyas@budiman.asia,kuliner,1,2014-11-23,29.98970168392906,46.69968282228434,jawa_barat
+40,UD Farida Nuraini ,dian59@nashiruddin.asia,fashion,0,2003-03-24,23.40816111434399,39.57436531637026,DKI_jakarta
+41,PD Pangestu Nuraini,mahmud.tampubolon@usamah.desa.id,agribisnis,0,2005-01-10,7.053241079527246,23.618457528271517,jawa_tengah
+42,PD Andriani ,jessica.simbolon@usamah.info,fashion,1,2012-08-14,3.757118102407344,25.326499417472554,DKI_jakarta
+43,UD Wahyuni,salimah.handayani@januar.co,pengrajin_kulit,1,2014-01-14,25.377562591202313,27.570315534578427,jawa_barat
+44,UD Mardhiyah,hana.hastuti@yulianti.co,fashion,1,2002-07-07,3.0196516129779836,8.182003376068261,jawa_barat
+45,PT Sant,ina.pratiwi@anggraini.tv,fashion,1,2010-09-04,13.0195040876836,13.058756541226085,DKI_jakarta
+46,UD Riyanti,xsamosir@pratama.co.id,kuliner,0,2007-08-31,51.23551714769732,51.094210410486966,jawa_barat
+47,UD Mayasari,hassanah.tomi@hutasoit.name,agribisnis,1,2010-07-15,50.06846957247538,28.287523462727624,jawa_timur
+48,UD Usada Susanti  ,daliman31@firgantoro.org,agribisnis,0,2020-02-17,52.15026878731009,16.36872104640661,jawa_barat
+49,PT Prastuti Handayani ,oliva.wijayanti@handayani.asia,agribisnis,1,2001-08-10,23.37521852475495,40.13927219405125,jawa_timur
+50,PT Farida Sihombing ,margana02@kusumo.tv,kuliner,1,2020-11-27,62.49052853199625,53.308239960085615,jawa_timur
+51,UD Budiman,vnasyidah@nainggolan.or.id,pengrajin_kulit,1,2009-06-10,42.266749819382404,19.29679890094196,jawa_barat
+52, Prastuti,kala45@jailani.co.id,kuliner,1,2016-03-19,10.32507861445966,58.17321313775327,jawa_tengah
+53,PT Lailasari ,halima.palastri@wahyuni.desa.id,pengrajin_kulit,1,2008-11-30,11.533110204183872,65.0500318151984,jawa_tengah
+54,PT Laksmiwati Handayani ,zaenab.wacana@wahyudin.biz,pengrajin_kulit,1,2006-07-13,49.04455575076002,42.510098445161844,jawa_barat
+55,PT Marpaung,wahyudin.cornelia@suwarno.my.id,fashion,1,2016-03-08,13.52861198026509,47.395746155945055,jawa_barat
+56,UD Pertiwi Halimah,genta09@prakasa.my.id,pengrajin_kulit,0,2014-06-11,36.35794566402192,5.3098886192582215,jawa_timur
+57,PT Prasasta Wastuti,rudi.pradana@sinaga.mil.id,agribisnis,0,2003-01-10,69.43836121641236,66.28009815897578,jawa_tengah
+58,PD Laksmiwati Narpati  ,laksmiwati.ratna@suryono.com,fashion,0,2014-10-25,1.993639251192421,28.51885765561036,jawa_timur
+59,PD Januar Prasetya ,manullang.unjani@prastuti.co.id,agribisnis,1,2015-10-25,2.8520688735651865,64.80391934924195,jawa_tengah
+60,CV Sihotang Sihotang,wharyanti@salahudin.mil.id,agribisnis,0,2008-02-23,69.52781525421499,41.25258538994656,jawa_tengah
+61,CV Nurdiyanti ,rwasita@suartini.net,fashion,0,2019-06-10,41.63913959468082,2.0353715850224092,DKI_jakarta
+62,PT Handayani,kuswandari.gilda@suartini.ac.id,agribisnis,0,2013-06-17,10.385413128404076,4.351647713804191,jawa_barat
+63, Wibisono  ,zulfa99@susanti.net,kuliner,1,2007-01-03,62.98779419920952,48.17899605114227,jawa_tengah
+64,PD Siregar Andriani  ,fathonah63@hartati.asia,agribisnis,1,2000-03-23,61.832366892718824,40.13897198444439,DKI_jakarta
+65,PT Hartati  ,karimah.puspasari@mustofa.in,fashion,1,2014-03-05,38.3317642072447,3.531634812430756,DKI_jakarta
+66,PD Astuti,wakiman.rahayu@palastri.tv,kuliner,0,2004-05-22,44.17595979889246,52.48344615226447,jawa_tengah
+67,CV Hakim Wijayanti,latupono.kunthara@halim.name,agribisnis,0,2015-11-21,20.373221435679834,59.90448361508373,jawa_tengah
+68, Gunawan ,xpermata@anggriawan.biz,kuliner,0,2011-01-10,5.169484868280512,35.61538570095597,jawa_timur
+69,PT Nasyiah Permata,harsana13@usamah.name,pengrajin_kulit,0,2009-10-20,42.317076335068215,33.52191802759337,jawa_tengah
+70,PT Prasetya,luwes63@yuliarti.info,agribisnis,0,2003-06-10,21.84588459188466,2.0937038712283647,jawa_tengah
+71,PT Habibi Ramadan ,hhariyah@nainggolan.in,agribisnis,1,2014-12-10,47.03204506596883,55.43244236906296,jawa_timur
+72,UD Sitoru,imarpaung@susanti.in,kuliner,1,2003-06-26,58.81882067481281,24.301293037424077,jawa_barat
+73,PD Suryatmi Kusum,azalea.simbolon@lestari.biz.id,pengrajin_kulit,1,2008-10-09,2.960001938472778,61.7219799587518,jawa_tengah
+74,UD Yulianti,dwulandari@saputra.ac.id,pengrajin_kulit,0,2017-07-25,42.39533653554147,27.19257691846386,jawa_timur
+75,CV Pradana  ,ghani64@prasetyo.mil.id,fashion,0,2019-05-01,17.511835249818272,40.303519737864576,jawa_barat
+76,UD Nasyiah Saefullah ,padma93@rahayu.name,agribisnis,1,2020-10-09,61.38910663687156,20.178937298250084,DKI_jakarta
+77,PT Samosir ,vanesa60@wasita.mil.id,kuliner,0,2020-02-13,19.040212508041648,12.684969983298249,DKI_jakarta
+78,PD Oktaviani,vivi51@zulaika.info,fashion,0,2011-09-04,43.42338469731436,54.630711642877074,jawa_tengah
+79,PD Nuraini,nadia38@najmudin.in,pengrajin_kulit,0,2004-03-17,39.51576856131867,35.62719789562411,jawa_timur
+80,PD Uyainah,gilda52@iswahyudi.net,pengrajin_kulit,1,2017-08-15,28.770248624045514,38.35139543380368,jawa_barat
+81, Waskita,ikhsan.nasyidah@latupono.desa.id,kuliner,1,2016-11-01,47.987945738593936,67.6386013037329,jawa_tengah
+82, Widod,lurhur84@permata.name,agribisnis,0,2020-10-18,51.27555065836982,67.51323640652865,DKI_jakarta
+83,CV Sudiati  ,edi87@widiastuti.org,fashion,1,2013-09-02,40.43051266440773,60.14324406984011,jawa_timur
+84,CV Novitasari,aris.melani@susanti.go.id,fashion,1,2002-12-22,53.50507035497501,14.529962509996494,jawa_barat
+85,PT Riyanti Prayoga  ,tantri.riyanti@anggraini.net,agribisnis,1,2010-07-24,68.86771794879778,42.296939566911874,jawa_barat
+86,PT Mandala Permata ,adika35@padmasari.or.id,fashion,1,2009-05-31,30.347918645866972,61.6799061554801,DKI_jakarta
+87,UD Wibisono Dabukke ,mgunarto@rahimah.mil.id,fashion,0,2017-09-14,36.85573078274405,27.288397580733466,jawa_barat
+88,PD Hardiansyah Waskita  ,zelda37@wahyuni.info,agribisnis,1,2008-03-30,2.5714432658260398,8.623529010081741,DKI_jakarta
+89,CV Situmorang  ,kani38@utama.com,fashion,0,2006-11-25,56.072829824872635,57.09254696494186,jawa_barat
+90,PT Permadi,wnamaga@mustofa.or.id,agribisnis,1,2001-09-06,37.24130897790046,34.61481528700908,DKI_jakarta
+91,CV Saefullah ,hesti.suryatmi@winarsih.info,kuliner,1,2017-07-18,29.57560646501939,40.25673221492471,jawa_timur
+92,CV Novitasari ,syahrini80@hartati.com,pengrajin_kulit,1,2015-11-12,8.143233639743945,68.78081255258242,DKI_jakarta
+93,UD Novitasari,wfirgantoro@rahayu.info,pengrajin_kulit,1,2000-11-12,62.46574047199613,43.18039647413524,jawa_tengah
+94, Sitompul Prayoga,zulfa.laksmiwati@laksita.asia,kuliner,1,2009-02-09,28.69109434996919,30.7375924532814,jawa_timur
+95,PT Hardiansyah  ,bharyanto@rahayu.web.id,fashion,1,2010-01-27,48.326671525725565,26.982532636606663,jawa_barat
+96,PD Latupono Pradipta,uhandayani@puspita.desa.id,kuliner,1,2009-11-09,11.919267396817336,30.235045302418236,DKI_jakarta
+97,CV Nugroho Pradana ,cinthia.hardiansyah@wibowo.com,fashion,1,2019-04-20,67.3746087050617,9.804289399439504,DKI_jakarta
+98,UD Hassanah ,ulaksmiwati@sitorus.ac.id,kuliner,0,2003-03-01,13.904003497194616,55.9855681287518,DKI_jakarta
+99,UD Usada,drajat12@lailasari.biz,fashion,1,2006-06-07,15.344727275177204,58.91930707701117,DKI_jakarta
+100,PD Nurdiyanti Natsi,rahman.saptono@puspasari.desa.id,fashion,1,2003-10-19,60.371349718880694,21.138636348672357,DKI_jakarta
+101,PD Farida  ,sitorus.lasmono@padmasari.my.id,fashion,0,2005-02-15,64.03114977001107,22.463233105030984,DKI_jakarta
+102,PT Safitri  ,jailani.limar@yuliarti.co.id,pengrajin_kulit,1,2019-01-19,16.20542498569102,61.41954302254105,jawa_timur
+103,UD Namaga  ,gagustina@najmudin.name,agribisnis,1,2019-10-04,33.79800464457725,3.3566958754487985,jawa_tengah
+104,UD Wulandari Salahudin,rika.saputra@mardhiyah.co,pengrajin_kulit,1,2000-12-08,51.80303208355002,37.25683426042631,jawa_barat
+105,PT Firgantoro  ,utami.jamalia@nasyidah.org,agribisnis,1,2013-04-10,61.694812304601534,33.37977779845289,jawa_timur
+106,PD Nababan Budiyanto ,zharyanto@usamah.org,fashion,0,2004-11-21,27.6017180171472,48.84185582681723,jawa_barat
+107, Permadi Firmansyah,dsamosir@purnawati.go.id,pengrajin_kulit,1,2004-01-17,37.02209056207903,12.876385286204753,jawa_barat
+108,CV Mustofa Lestari  ,aryani.marsudi@farida.com,agribisnis,0,2006-02-18,52.3643965102875,47.353622981493096,jawa_timur
+109,UD Mayasari Hakim,shutapea@sitorus.name,pengrajin_kulit,1,2004-01-31,51.64196448585287,27.443398057696562,jawa_tengah
+110, Thamrin,dhutagalung@hakim.ac.id,pengrajin_kulit,1,2010-04-18,55.180517678181076,43.96584505342316,jawa_timur
+111,UD Pradipta Setiawan,maulana.embuh@marpaung.go.id,kuliner,0,2020-11-28,40.63508113684342,4.45768727411314,jawa_barat
+112,PD Prasetyo  ,puji66@yulianti.info,kuliner,0,2012-04-25,8.863118809830052,33.2467330237583,jawa_barat
+113,CV Melani Prasasta,asaragih@uwais.my.id,kuliner,0,2015-03-10,63.44329630115257,37.37929104111637,jawa_tengah
+114,CV Thamrin Zulaika ,kuswoyo.prabu@wibowo.co.id,kuliner,0,2010-05-12,60.8212929848398,16.354206786938487,DKI_jakarta
+115, Sihombing Simbolon,kartika49@pradipta.co,agribisnis,0,2000-04-16,56.21409291767578,11.253503107350362,jawa_tengah
+116,PT Mardhiyah ,ogunarto@adriansyah.desa.id,pengrajin_kulit,0,2001-10-07,8.53860994053461,14.58902540967994,jawa_timur
+117, Yulianti ,fujiati.yessi@tarihoran.co,pengrajin_kulit,0,2005-08-24,15.676252224319986,25.217952810165404,jawa_tengah
+118,PT Prayoga ,enteng77@wahyuni.com,agribisnis,0,2005-02-12,52.49303292955047,8.330196994543451,jawa_tengah
+119,CV Maryati  ,kpertiwi@aryani.info,fashion,1,2017-08-27,3.3000056580553023,66.40299565241739,jawa_barat
+120, Saptono Usada ,wijaya.ajeng@hasanah.com,pengrajin_kulit,0,2017-09-19,68.58145798953305,29.372994518934405,DKI_jakarta
+121,PD Nababan  ,epermata@usamah.name,kuliner,0,2017-12-08,27.47143877468588,56.95644445916082,jawa_timur
+122,CV Tampubolon Laksita ,jefri36@wijayanti.biz.id,fashion,0,2013-05-22,50.83465980040943,68.25320116587206,jawa_tengah
+123,CV Iswahyudi Maryati,latupono.belinda@handayani.my.id,pengrajin_kulit,1,2011-09-06,62.3233539219636,7.232604918587026,jawa_tengah
+124,PD Thamrin Mansu,pangestu.ridwan@samosir.org,pengrajin_kulit,0,2013-08-19,28.665328762887615,46.21599127060139,jawa_barat
+125,PT Handayani ,artawan87@puspita.web.id,pengrajin_kulit,1,2008-07-17,23.510366321585195,61.21981244269009,DKI_jakarta
+126,CV Kurniawan Saefullah  ,karimah72@adriansyah.info,pengrajin_kulit,0,2014-01-28,43.28484428117228,45.025527151248205,jawa_barat
+127, Mansur Simbolon ,mpratama@fujiati.co,kuliner,0,2016-09-07,41.3899544395169,31.01390356628414,jawa_timur
+128,PD Halimah Salahudin  ,gatot16@simanjuntak.info,pengrajin_kulit,0,2016-01-09,29.656077672221148,31.153893699518424,DKI_jakarta
+129, Usamah Mulyani  ,habibi.setya@puspasari.co.id,fashion,0,2012-11-21,42.80918033064713,4.1711759365824665,DKI_jakarta
+130,CV Kusmawati Firgant,carla72@samosir.mil.id,agribisnis,1,2001-03-21,65.58783991400027,38.22253929803172,jawa_tengah
+131,PD Susanti Hassanah,pratiwi.wawan@yuniar.or.id,pengrajin_kulit,0,2015-03-24,33.650476722464006,69.55911582060594,jawa_tengah
+132,PT Yuliarti Mustofa,upratama@mahendra.co.id,kuliner,0,2007-09-13,15.153556101653107,67.18054987336366,jawa_barat
+133,PT Siregar Yolanda  ,kania.yuliarti@susanti.biz,agribisnis,1,2015-08-14,27.475624511251503,4.478459345342902,jawa_tengah
+134,UD Halim Salahudin,hutapea.ani@pertiwi.ac.id,agribisnis,1,2011-05-01,28.629624771458136,49.911819407821454,DKI_jakarta
+135,PD Pudjiastuti Novitasari ,pyolanda@sihotang.com,fashion,1,2018-07-04,10.672101559830292,22.324505098066435,DKI_jakarta
+136,PD Wijaya Hastuti  ,ahartati@hasanah.ac.id,kuliner,1,2007-02-09,12.840866057865009,63.376099394571014,DKI_jakarta
+137,PD Nugroho Maheswara  ,silvia.uyainah@usada.sch.id,agribisnis,1,2019-07-24,48.46189837132028,4.800434837029538,jawa_tengah
+138,PT Nuraini Padmasari ,yolanda.karman@zulkarnain.co.id,agribisnis,0,2017-09-25,24.899541057383875,65.62148368531659,DKI_jakarta
+139,PT Wijayanti Suartini,widiastuti.ani@andriani.org,fashion,1,2006-12-14,66.92046219591454,58.902843785829404,jawa_timur
+140,PT Aryani Firgant,shakila.suryatmi@oktaviani.tv,fashion,0,2010-02-18,18.352785773085714,9.743199220207632,jawa_timur
+141, Pudjiastuti Saragih,damu41@rajata.web.id,kuliner,0,2011-02-27,8.474565208557268,5.804805752025189,jawa_barat
+142,PT Nainggolan Manullang ,cemeti.iswahyudi@aryani.desa.id,kuliner,1,2016-02-22,53.16929156165761,58.71383932024318,DKI_jakarta
+143,PT Prastuti Wasita  ,rnatsir@rajasa.com,fashion,1,2014-06-22,61.877141624952166,12.355133774144281,DKI_jakarta
+144,UD Adriansyah  ,rmarpaung@sinaga.biz,kuliner,1,2017-11-22,20.709580007185192,38.24284588519244,jawa_barat
+145,PT Pranowo Kuswandari ,haryanti.novi@pratama.com,fashion,0,2007-10-08,15.518575580353236,64.24705889595829,DKI_jakarta
+146, Setiawan Pradana,ratih.nuraini@hastuti.in,agribisnis,1,2010-08-08,14.404111688997833,40.465357193147796,jawa_tengah
+147,PD Utami  ,yhandayani@narpati.com,fashion,0,2009-01-18,37.36299993730546,28.84308982456443,jawa_barat
+148,PT Yuliarti,tmaryadi@mustofa.my.id,agribisnis,1,2019-02-07,33.70348826432952,32.10569622543059,jawa_barat
+149,PD Safitri,situmorang.lukman@mandasari.sch.id,agribisnis,1,2006-05-28,19.434552265267595,6.029640415660313,DKI_jakarta
+150,PT Nashiruddin,qfirgantoro@setiawan.co.id,pengrajin_kulit,1,2012-04-30,4.804420428038034,67.86640850256997,jawa_barat
+151,PD Palastri,banara02@suryatmi.sch.id,kuliner,1,2002-07-10,34.596228717478446,22.931467757336332,jawa_tengah
+152, Dongoran Dabukke ,ykuswandari@hutagalung.web.id,pengrajin_kulit,1,2017-11-09,67.22321269655934,14.64973921142246,jawa_tengah
+153,CV Maheswara  ,pfujiati@sihotang.my.id,pengrajin_kulit,0,2008-01-26,46.27401102739184,21.25130976966219,DKI_jakarta
+154,PD Prakasa Yolanda,queen.firmansyah@pratama.go.id,fashion,0,2007-02-25,35.553187686602065,67.56740174719017,jawa_barat
+155,CV Nashiruddin Prayoga ,ewasita@usada.biz.id,fashion,0,2012-03-29,9.27805481474219,8.157851732161118,DKI_jakarta
+156, Narpati ,hesti.tarihoran@samosir.info,pengrajin_kulit,1,2010-06-23,18.956349918725817,60.939451605420665,jawa_timur
+157,UD Prasasta ,zamira.yulianti@prasetya.go.id,agribisnis,0,2017-10-22,21.847165276949777,50.051581109730854,jawa_barat
+158,CV Mangunsong  ,lulut.sitompul@fujiati.co.id,agribisnis,0,2011-02-28,53.940786572021956,58.39370955297844,jawa_timur
+159, Laksmiwati ,prasetya86@ramadan.org,agribisnis,1,2010-11-09,61.581813237228204,68.35428405631995,jawa_timur
+160,PT Farida Rahmawati,hwasita@oktaviani.info,fashion,1,2002-03-16,63.284105761516415,59.22231987869201,jawa_timur
+161, Ardianto Permata,suyainah@handayani.info,agribisnis,1,2000-06-17,68.9463445713615,66.1341469452518,DKI_jakarta
+162, Sirait Tampubolon,laksmiwati.padma@widiastuti.tv,kuliner,1,2008-05-15,68.79599712237747,10.387139333684003,jawa_timur
+163,UD Puspita,wulandari.wirda@nuraini.sch.id,agribisnis,1,2020-12-18,66.79078078539777,56.05644322960072,DKI_jakarta
+164,UD Hutagalung Pudjiastuti  ,harimurti.siregar@pertiwi.sch.id,kuliner,0,2019-04-07,6.624015753536945,38.97873639185394,jawa_barat
+165,CV Sirait,yuniar.kasim@zulaika.my.id,kuliner,1,2013-03-17,11.12854263315054,38.82987923205289,jawa_barat
+166,CV Astuti  ,flaksmiwati@marpaung.org,kuliner,1,2013-04-01,22.508974427783524,63.09836523116467,jawa_tengah
+167,UD Hastuti Usada,raisa52@nasyidah.web.id,fashion,1,2008-03-22,39.471892787521426,68.07476473719744,DKI_jakarta
+168,PT Pratama Mahendra,zizi.yuniar@hutagalung.info,pengrajin_kulit,0,2003-09-23,8.341650240810127,49.84636069738839,DKI_jakarta
+169, Anggraini Suryatmi,silvia20@prakasa.tv,pengrajin_kulit,1,2000-03-06,59.47101627873029,34.69503323313341,DKI_jakarta
+170, Mulyani ,qori.dabukke@winarno.net,agribisnis,1,2007-02-12,43.83211190739866,32.883255417538,jawa_timur
+171,CV Salahudin Pertiwi,xmulyani@wahyudin.info,pengrajin_kulit,1,2006-08-24,38.75264138919455,28.099394699198854,jawa_timur
+172, Palastri Waskita ,palastri.usyi@nuraini.info,kuliner,0,2004-01-09,13.00745715951864,26.409981739221404,DKI_jakarta
+173, Yuniar Nasyidah,ikhsan88@hasanah.tv,fashion,1,2005-06-11,19.012283792045476,28.452087150212975,jawa_tengah
+174,CV Laksita,kani99@lestari.desa.id,pengrajin_kulit,1,2000-07-09,12.66610506578858,7.848350902951613,jawa_timur
+175,PD Sinaga ,palastri.ilsa@mansur.net,fashion,1,2012-10-07,59.88999601422885,7.007335901582721,jawa_timur
+176, Riyanti Widiastuti  ,alika19@mandasari.asia,kuliner,0,2019-06-24,41.611078284979975,54.969512939601444,jawa_tengah
+177,CV Maheswara Sirega,usyi90@sihombing.or.id,agribisnis,1,2014-07-05,51.914637311040565,32.17785712859304,jawa_tengah
+178, Pranowo  ,jsuryono@oktaviani.my.id,pengrajin_kulit,1,2009-05-31,21.933123879496556,65.26713687782669,jawa_timur
+179,PD Suartini,jagapati07@pertiwi.biz,agribisnis,0,2008-10-28,27.069130060387565,43.52245046679507,jawa_barat
+180,PT Thamrin,wijayanti.febi@kusmawati.co.id,agribisnis,1,2006-06-17,29.363496971043727,4.12181606355218,DKI_jakarta
+181,CV Budiman Siregar  ,agustina.gatot@maulana.info,kuliner,0,2002-12-28,53.613822270682704,12.4756937451575,jawa_timur
+182,CV Puspasari Wijayanti,laras.mardhiyah@damanik.sch.id,agribisnis,1,2012-07-26,54.45626199841951,15.773375466928158,jawa_barat
+183, Wahyudin Laksmiwati ,fsinaga@susanti.or.id,kuliner,0,2011-11-24,15.841227658658086,68.34325574532602,jawa_barat
+184,PT Wahyuni  ,prasetya.hari@sudiati.info,agribisnis,1,2000-02-26,66.0082731380774,16.65312456163363,DKI_jakarta
+185,PD Hasanah,zoktaviani@hutapea.net,pengrajin_kulit,1,2008-09-22,9.958346440654907,36.93579757694814,jawa_barat
+186,PD Namaga Haryanti  ,purwanto.hutagalung@dongoran.co,pengrajin_kulit,1,2005-11-02,62.90721578788548,65.6421608923926,jawa_barat
+187, Yuliarti Prabow,tina71@prastuti.com,pengrajin_kulit,1,2003-07-30,8.575014684968979,68.44271959855232,jawa_barat
+188,PD Rajasa ,puspasari.hafshah@fujiati.info,agribisnis,1,2014-10-06,19.78277830541152,17.858690527988422,jawa_tengah
+189,CV Mandasari  ,hidayat.hamzah@budiyanto.asia,fashion,0,2011-01-16,59.517554442720105,5.07375271525274,jawa_timur
+190, Narpati  ,marbun.melinda@kurniawan.in,kuliner,0,2013-04-23,13.975718699790852,12.207933125678151,jawa_timur
+191,CV Sudiati  ,usada.eli@permata.ac.id,agribisnis,1,2014-12-26,29.958418349844738,6.044068525810666,jawa_timur
+192, Suartini Setiawan  ,akuswandari@hastuti.co.id,kuliner,1,2020-08-14,32.436393000184935,15.04308318178473,jawa_tengah
+193,CV Farida Andriani,puji08@nashiruddin.sch.id,agribisnis,0,2016-11-09,18.466282678024754,40.54194011997105,jawa_tengah
+194,UD Pranowo ,nmaryadi@oktaviani.ac.id,fashion,0,2013-01-10,50.21554234722116,64.02200381106643,DKI_jakarta
+195,PT Purwanti Pertiwi  ,zelda61@prastuti.net,agribisnis,1,2018-06-17,59.849129861182476,38.40130537864953,jawa_timur
+196,PD Hartati Mahendra ,makuta10@maryati.info,fashion,1,2010-01-10,61.43599054933844,44.462566931413235,jawa_tengah
+197, Sihotang Astuti,kurnia.mansur@thamrin.desa.id,agribisnis,0,2020-09-06,24.88891611089238,15.503495939899468,jawa_barat
+198,PT Yuliarti Novitasari,laksita.praba@maheswara.asia,pengrajin_kulit,0,2015-12-28,37.96646492197197,56.38384961961049,jawa_tengah
+199,PT Latupono Mahendra,ssiregar@aryani.com,agribisnis,0,2013-09-01,18.681189255946684,43.90262667276122,jawa_barat
+200,UD Pratiwi Wibison,karya.wasita@irawan.my.id,agribisnis,1,2018-12-21,18.43470512584393,60.72326269727925,jawa_tengah
+201,PD Tamba Kuswandari  ,balijan75@widodo.biz,fashion,0,2010-10-26,12.73042741152938,66.50700734635494,jawa_tengah
+202,CV Hidayat Fujiati,mmegantara@mahendra.asia,fashion,1,2015-02-19,65.9044980579371,25.47466496866012,jawa_timur
+203,PD Dabukke Pradana,cornelia.suryatmi@yulianti.biz,agribisnis,0,2005-12-24,62.351877217189,7.904738116799798,DKI_jakarta
+204,PT Maryadi Setiawan ,almira.riyanti@nasyidah.sch.id,fashion,0,2020-03-24,54.79805294601483,17.146429246557908,jawa_barat
+205,PD Sant,diah.januar@pangestu.sch.id,agribisnis,1,2013-02-02,37.06592867352614,31.615822104346165,jawa_barat
+206,PT Halimah Yuliarti  ,titi.winarsih@marbun.name,pengrajin_kulit,1,2016-06-03,35.21870847115061,66.29196254657504,jawa_barat
+207,CV Rahayu  ,cfirgantoro@padmasari.sch.id,fashion,1,2009-09-04,37.89103408694096,27.55099467165679,DKI_jakarta
+208,UD Nababan  ,tampubolon.jagapati@widodo.com,agribisnis,1,2018-03-16,38.35686396704366,54.34839502907146,jawa_barat
+209,PT Zulaika,yulia.hastuti@yulianti.mil.id,pengrajin_kulit,1,2001-07-23,31.391967423158295,38.623748541419154,DKI_jakarta
+210,PT Sirega,wulan20@uyainah.tv,agribisnis,1,2002-05-25,10.716219989870368,14.20218284502708,DKI_jakarta
+211, Lailasari,kurniawan.naradi@farida.desa.id,kuliner,1,2010-08-26,10.300327873863639,23.619725642141674,jawa_tengah
+212,PT Prasetyo Saputra,galak48@suwarno.asia,kuliner,0,2015-05-20,66.73961059794325,46.31994190935806,jawa_tengah
+213,CV Marpaung Mahendra ,rina.hasanah@wahyudin.tv,agribisnis,0,2016-12-29,34.633060264556015,47.66242978908453,jawa_timur
+214,PT Maryati Rahayu ,yolanda.jagaraga@wijaya.asia,fashion,1,2009-03-29,66.8048732405263,31.40539551212167,jawa_tengah
+215,CV Kuswandari ,amelia.astuti@wasita.mil.id,kuliner,0,2013-08-23,12.88902921004631,17.331921749769187,jawa_timur
+216, Marbun Prasety,arahmawati@melani.sch.id,agribisnis,1,2011-08-13,39.57556217328666,51.01179490512554,DKI_jakarta
+217,PT Mulyani  ,hamima80@zulaika.sch.id,pengrajin_kulit,1,2020-03-11,15.9029340588431,13.250651281316165,jawa_barat
+218,CV Uwais Simanjuntak  ,citra83@andriani.co,kuliner,0,2013-09-26,19.007444906324352,65.67580656055085,DKI_jakarta
+219,PD Gunarto ,cakrawala.kusumo@sitompul.biz,pengrajin_kulit,1,2008-10-02,3.7721266378132876,14.55005637661063,DKI_jakarta
+220,UD Sudiati,galar80@puspasari.or.id,agribisnis,0,2020-05-14,9.84213205734163,9.047288134204496,jawa_tengah
+221,CV Uyainah Wastuti,saka49@sitorus.tv,fashion,1,2002-04-02,64.32240927292149,35.699385117508065,jawa_barat
+222,PD Utama Rahmawati ,maulana.amelia@wulandari.net,pengrajin_kulit,0,2020-09-04,23.67427265841361,37.19484655892991,jawa_tengah
+223,UD Agustina Kuswoy,wahyuni.citra@ardianto.net,pengrajin_kulit,0,2003-03-27,43.243062589528314,36.41941222105856,jawa_barat
+224,PD Hutapea ,virman42@lestari.mil.id,kuliner,1,2006-01-19,33.47116493222756,31.53565617205596,jawa_timur
+225, Hartati Susanti,anggriawan.laksana@kuswoyo.my.id,agribisnis,1,2017-04-02,29.062811025347603,69.64596088240566,jawa_barat
+226,PD Firgantoro Saputra ,raditya43@lestari.biz.id,fashion,0,2015-05-30,38.03718231710953,34.92324023314733,DKI_jakarta
+227,CV Siregar Yuniar ,wahyuni.vera@saragih.info,kuliner,1,2020-05-18,14.50467513833552,34.35419253291566,DKI_jakarta
+228,PT Tamba,dadap19@yolanda.org,fashion,1,2015-10-02,69.22187419091668,30.518186762150243,jawa_tengah
+229, Hardiansyah Mulyani,anggraini.ciaobella@wijaya.biz.id,agribisnis,0,2013-05-18,57.59406127509976,6.282862531015887,jawa_timur
+230, Widiastuti Sihombing ,zulaika.olivia@siregar.com,pengrajin_kulit,1,2007-04-11,52.357447122907864,42.207078774895784,jawa_barat
+231,PD Anggriawan Haryanti,zaenab.nashiruddin@nuraini.info,pengrajin_kulit,1,2000-02-06,33.72688480011267,17.285639487398896,jawa_tengah
+232,PT Winarno Winarno  ,tami98@sirait.in,agribisnis,0,2002-08-08,12.158449898786222,45.25594117003953,jawa_barat
+233,CV Kuswandari Mandala  ,elailasari@lailasari.desa.id,agribisnis,1,2006-04-03,64.58306480291921,5.19090878184202,jawa_timur
+234,PD Halimah ,fmahendra@mahendra.go.id,pengrajin_kulit,1,2000-11-10,25.02990896082436,68.72911127355495,jawa_tengah
+235,CV Hutapea Aryani,mardhiyah.cinta@ramadan.web.id,kuliner,1,2010-09-03,5.141284772506638,33.74366679498526,jawa_barat
+236, Astuti Puspita ,emil.handayani@pratiwi.name,pengrajin_kulit,1,2016-04-28,25.099323052629725,62.95045677221289,jawa_tengah
+237,UD Melani Maryadi,pia.tampubolon@setiawan.asia,kuliner,1,2020-03-25,55.965526042258986,34.19131690834479,jawa_tengah
+238,PD Wasita,rosman.rahayu@rajasa.or.id,pengrajin_kulit,0,2010-04-14,44.23855310779485,5.83938829224786,jawa_tengah
+239,UD Irawan ,vero90@wulandari.biz,pengrajin_kulit,1,2018-05-18,52.98725856637902,57.860740927285136,DKI_jakarta
+240,PD Nurdiyanti ,yance.hutagalung@laksita.net,kuliner,0,2020-09-12,55.90942401012313,45.97798506167193,jawa_tengah
+241,CV Mandala,pprasetyo@wijayanti.net,fashion,1,2018-01-21,16.192260844579447,55.09837120834897,jawa_tengah
+242,CV Rahimah,natalia.yulianti@lailasari.info,agribisnis,0,2009-10-06,64.79592482284235,30.95543828038587,jawa_barat
+243, Pradana Zulkarnain ,prabowo.maras@purnawati.net,fashion,0,2006-10-31,31.625930087403038,45.27832089716092,jawa_timur
+244,CV Winarno ,cindy.tarihoran@mayasari.tv,kuliner,0,2020-07-15,45.351851971757156,60.18331637923236,jawa_barat
+245, Pertiwi,whidayanto@wibisono.ac.id,kuliner,1,2005-01-29,1.877642992222744,44.80914843929248,DKI_jakarta
+246,UD Utama Rajasa ,dariati09@purnawati.in,agribisnis,0,2008-08-23,69.54720107151523,25.459155786595478,DKI_jakarta
+247,CV Haryanto Nashiruddin,waluyo.mujur@salahudin.co.id,kuliner,0,2001-07-21,20.89960523363251,46.95752070332413,jawa_timur
+248, Gunart,anita.pradana@iswahyudi.co.id,agribisnis,1,2016-09-01,5.957668914561799,47.59420399856852,DKI_jakarta
+249,CV Mulyani Winarsih  ,elon.hastuti@wijayanti.asia,pengrajin_kulit,1,2013-08-24,33.010132196113176,67.30887779995236,jawa_timur
+250,PT Widodo Mansur ,hasan16@purnawati.mil.id,kuliner,0,2001-10-12,10.530172304389811,27.04589331486517,DKI_jakarta
+251,UD Hakim  ,janet.tampubolon@maheswara.biz,pengrajin_kulit,1,2004-08-29,12.12086776955927,30.744583085864875,DKI_jakarta
+252,CV Budiyanto Pangestu ,kasim.lazuardi@novitasari.biz,kuliner,0,2011-08-31,44.89227047370275,57.1717557898524,DKI_jakarta
+253,UD Kuswandari,tarihoran.belinda@santoso.mil.id,kuliner,0,2011-05-08,28.549082296415527,36.25345085063437,jawa_barat
+254,PD Najmudin Prasasta  ,arta70@mandala.asia,pengrajin_kulit,1,2016-11-04,64.66408529658307,52.01321079794225,jawa_barat
+255,PT Firmansyah Maryati,elisa.mangunsong@uyainah.my.id,fashion,0,2005-08-03,23.512005451839023,33.108962232891265,DKI_jakarta
+256,UD Laksita  ,darsirah.hastuti@salahudin.biz.id,kuliner,1,2019-06-03,51.30357916605277,16.434008282971188,DKI_jakarta
+257,PT Zulaika,jane.prayoga@sitorus.biz,agribisnis,1,2009-05-02,33.20386909097709,52.60251838508742,jawa_tengah
+258, Gunawan,napitupulu.zamira@nasyiah.tv,fashion,1,2017-04-11,46.781474841107155,10.675274951931994,jawa_barat
+259,PD Prastuti Winarno  ,emin.kuswandari@sihombing.biz.id,fashion,0,2005-01-02,42.66719895656782,15.279292545917716,jawa_barat
+260,UD Handayani ,najmudin.galuh@mandala.info,pengrajin_kulit,1,2000-10-10,34.00168965998439,44.519609824505764,jawa_barat
+261,PT Wulandari,epermadi@astuti.my.id,agribisnis,1,2001-02-26,66.59017154095656,52.74358195711452,DKI_jakarta
+262,UD Sihombing ,vera07@wijaya.name,agribisnis,0,2007-10-29,25.120487527308384,62.809288915334406,jawa_timur
+263,UD Kusumo Farida,hartaka33@nasyiah.sch.id,pengrajin_kulit,0,2020-01-07,13.821640025300331,20.332206043557083,jawa_barat
+264,PT Agustina,hlatupono@rahayu.desa.id,pengrajin_kulit,0,2001-01-08,48.02026247687467,9.280252377245851,jawa_timur
+265,UD Pudjiastuti,oliva.agustina@usamah.biz.id,agribisnis,1,2007-10-01,59.48539628610401,66.99886591220512,DKI_jakarta
+266,PT Sirega,adinata62@wibisono.my.id,kuliner,1,2002-04-18,4.468525363097994,12.264008450151886,jawa_tengah
+267,PD Haryanto  ,shania.pertiwi@waskita.sch.id,kuliner,0,2019-07-26,32.42091996550063,15.216701548346787,jawa_tengah
+268, Maryati ,laksita.kawaca@yulianti.sch.id,fashion,1,2014-03-08,62.65905945185064,21.611975088972038,jawa_barat
+269, Wibowo ,vino76@lazuardi.info,agribisnis,1,2016-01-07,52.903959300053394,37.86684165291491,jawa_timur
+270,UD Dongoran Agustina,kanda.pradana@halim.desa.id,agribisnis,1,2014-12-24,69.44063088245805,61.99932964880685,jawa_timur
+271,CV Agustina  ,jarwadi06@widiastuti.mil.id,agribisnis,0,2013-10-19,38.004935055859804,53.650082431995315,jawa_timur
+272, Hariyah Oktaviani,cici.astuti@marpaung.my.id,fashion,0,2016-04-01,46.78450767974261,50.072997776375125,jawa_tengah
+273,PD Wasita,raharja.nurdiyanti@adriansyah.asia,kuliner,0,2000-03-03,22.373353596097733,13.681329173207931,jawa_tengah
+274,CV Usada,hafshah91@mandasari.ac.id,kuliner,1,2018-03-05,66.41773074519395,26.14257008059352,DKI_jakarta
+275,UD Nashiruddin Putra  ,caraka53@gunawan.in,agribisnis,1,2015-07-16,26.733387158640298,34.38548835319837,jawa_timur
+276,PD Maryadi,kania.widiastuti@zulaika.ac.id,agribisnis,1,2015-07-13,52.145511462243,11.786244103995802,jawa_timur
+277,UD Suwarno Usada,siska51@sihombing.web.id,pengrajin_kulit,0,2008-04-06,29.24641313725091,20.389780061209198,jawa_tengah
+278,PD Laksita Prayoga ,hasan86@padmasari.asia,agribisnis,0,2016-10-26,40.08099654470159,22.772991165900205,jawa_barat
+279,PD Wastuti Nurdiyanti,winarsih.restu@prasetyo.web.id,agribisnis,0,2008-01-07,50.866751491271174,10.4104188219068,jawa_timur
+280,CV Mulyani Anggraini,warsita.iswahyudi@sirait.tv,fashion,1,2001-01-10,36.47002388158247,39.29036616349583,jawa_timur
+281,PD Uyainah Mayasari,anggriawan.gina@januar.name,kuliner,0,2019-01-24,63.65585440138124,49.859325258671895,jawa_barat
+282,CV Wibow,kania.utami@nurdiyanti.co,pengrajin_kulit,1,2004-12-04,30.349871455710883,6.494931797240083,DKI_jakarta
+283,CV Widodo  ,swasita@tampubolon.mil.id,pengrajin_kulit,1,2002-02-20,45.902062377226244,34.571085388387864,jawa_tengah
+284,PD Tampubolon Hidayat,pnovitasari@nuraini.co.id,agribisnis,0,2013-01-22,25.096506945727693,55.12938041288505,jawa_barat
+285,CV Andriani,wahyu.nasyidah@haryanti.net,fashion,0,2004-11-27,29.58893730681357,52.79276600487307,DKI_jakarta
+286,UD Rajasa  ,xmulyani@kurniawan.com,agribisnis,0,2018-01-08,31.766621390186955,57.37319100981653,jawa_timur
+287,CV Kusumo Dabukke ,usamah.ani@suwarno.name,fashion,1,2009-04-27,10.310103210362838,32.32587043288905,jawa_timur
+288,CV Waskita Haryanti,firgantoro.kartika@rahayu.desa.id,agribisnis,1,2000-02-04,7.982892806148977,57.74763760264969,jawa_timur
+289,PT Prasetyo  ,pudjiastuti.titi@zulaika.web.id,pengrajin_kulit,0,2019-12-27,47.29621195246063,18.158619702510318,jawa_tengah
+290,CV Sihombing Mandasari,yessi.pertiwi@tamba.biz.id,pengrajin_kulit,0,2010-10-22,46.47875117406361,26.356145133587948,DKI_jakarta
+291,PD Hartati,yunita81@nasyiah.go.id,fashion,1,2005-07-10,46.9834752862653,13.761558757807475,jawa_tengah
+292,PD Usamah ,enasyiah@rahmawati.biz,agribisnis,0,2014-03-23,3.0696528879989877,33.639844352182884,jawa_timur
+293,PD Yulianti  ,ibun.salahudin@zulaika.my.id,agribisnis,0,2011-02-22,24.016618417629132,28.489858330526463,jawa_timur
+294,PD Latupon,sutami@lestari.sch.id,kuliner,0,2000-08-15,15.226456370857967,18.170503508769237,jawa_tengah
+295,PD Budiman Siregar  ,zalindra.saptono@sihombing.or.id,agribisnis,0,2015-12-15,54.852179131305164,53.05158682627776,jawa_timur
+296,PD Gunarto ,tira.nasyiah@riyanti.co,fashion,0,2008-06-05,60.483843807327766,23.14945759978323,jawa_timur
+297,PD Padmasari Suartini  ,widya.novitasari@permata.co,kuliner,1,2014-09-12,18.563336157001338,20.34707966235766,DKI_jakarta
+298,PD Mandasari Najmudin,umi.rahmawati@nababan.my.id,fashion,1,2018-10-23,47.32074056614051,10.657191790471805,DKI_jakarta
+299,PD Rahmawati  ,lala96@wijaya.co.id,pengrajin_kulit,1,2012-10-28,10.55289222013098,31.682745799037054,jawa_timur
+300,CV Sudiati Tampubolon ,utama.ani@puspasari.my.id,kuliner,1,2014-02-07,20.507414448084987,22.406424857010983,jawa_barat
+301,PT Namaga  ,zulaika.ika@yuliarti.sch.id,agribisnis,1,2005-05-07,11.187329002817886,26.933949606761335,DKI_jakarta
+302, Waluy,waskita.diah@winarsih.biz.id,pengrajin_kulit,0,2004-12-28,21.07879794339537,17.833893091731333,jawa_barat
+303,PD Wibisono Rajata,wmangunsong@latupono.name,agribisnis,0,2008-09-18,47.79101145300869,53.8282568449028,jawa_barat
+304,CV Gunarto  ,vlaksmiwati@marpaung.desa.id,kuliner,1,2017-11-28,63.87712142744904,65.22062855738011,jawa_timur
+305, Ardianto Rahmawati,gambira30@prabowo.co,pengrajin_kulit,0,2011-01-04,15.548230013063419,35.718786908425244,jawa_barat
+306,PD Riyanti,widiastuti.yunita@aryani.desa.id,pengrajin_kulit,1,2007-04-23,38.73315650643511,45.62393234571205,jawa_tengah
+307,PD Wahyudin,triyanti@uyainah.tv,kuliner,1,2016-05-16,49.61098439290156,60.930523046705886,DKI_jakarta
+308,CV Januar Najmudin,hmarbun@wahyudin.mil.id,agribisnis,0,2017-12-03,66.78554614819443,69.9200876371422,jawa_tengah
+309,UD Sihombing Pratiwi,kuswandari.intan@prakasa.info,kuliner,1,2018-12-15,43.37492977153623,43.61090557735294,jawa_timur
+310,UD Widiastuti,santoso.ellis@prasetyo.asia,pengrajin_kulit,1,2006-04-12,19.138701250549552,62.474141975342235,jawa_timur
+311, Novitasari Wastuti ,eli.rajasa@pertiwi.biz,pengrajin_kulit,0,2014-11-26,44.42764855408357,63.759771074819234,DKI_jakarta
+312,UD Maryati,salimah49@pudjiastuti.org,pengrajin_kulit,0,2012-05-25,23.603136519374942,55.76030758750445,jawa_timur
+313,UD Anggraini Mustofa ,tpuspasari@utami.co,fashion,1,2009-06-06,68.37004651642981,33.192395382471965,DKI_jakarta
+314,PT Putra Astuti,rharyanto@prasasta.co,fashion,1,2008-05-02,29.009886508973125,7.261195148943845,jawa_tengah
+315,PD Laksmiwati,hutagalung.ana@firmansyah.sch.id,agribisnis,0,2002-05-28,48.52100477356205,2.799203325452339,jawa_barat
+316,PT Lazuardi Mandala  ,nhutasoit@suryono.net,kuliner,1,2005-10-09,3.305979322636669,34.30325924055809,DKI_jakarta
+317,UD Zulkarnain Yuniar  ,napitupulu.jati@prastuti.info,pengrajin_kulit,0,2011-07-18,29.036195542081096,35.4717963497437,DKI_jakarta
+318,PD Kurniawan Maryadi,gaiman63@damanik.tv,fashion,1,2018-08-14,61.4723478376611,29.534703843283747,jawa_timur
+319, Setiawan Siregar  ,rahayu.harsana@sudiati.go.id,fashion,1,2018-03-12,43.38632990590202,40.51446674617437,jawa_tengah
+320,CV Jailani Widiastuti,jaswadi00@saptono.name,kuliner,0,2003-12-10,32.03242028311727,39.42166938162628,jawa_timur
+321,UD Aryani,ulya.kuswandari@nuraini.my.id,kuliner,1,2014-04-08,65.62581246147137,58.843938441712275,jawa_tengah
+322,PT Dongoran Iswahyudi  ,prayoga.aurora@ardianto.biz.id,kuliner,1,2001-10-12,60.030053203332805,9.139107010747278,DKI_jakarta
+323, Rahmawati,lkusmawati@prabowo.co,kuliner,1,2014-03-06,23.720886208630223,17.095131041686646,jawa_timur
+324, Gunawan Wahyuni,azalea53@simanjuntak.net,pengrajin_kulit,0,2007-03-07,38.90176489138267,55.86637996336356,DKI_jakarta
+325,PD Aryani,yani.putra@pranowo.go.id,pengrajin_kulit,0,2009-06-12,35.16520020599335,59.61030129403113,jawa_timur
+326,CV Winarn,ijailani@yolanda.my.id,agribisnis,0,2015-01-27,44.8867867078428,69.64659730603286,DKI_jakarta
+327,UD Maryati,karman.wastuti@anggraini.info,agribisnis,0,2008-12-03,24.53311730794383,61.32243247891011,jawa_tengah
+328,UD Prasetya Tarihoran,pranowo.yance@pratama.ac.id,fashion,0,2016-12-15,18.39431745229485,62.48230420289877,jawa_tengah
+329,UD Pudjiastuti Suryon,ghidayat@novitasari.desa.id,agribisnis,1,2011-03-17,64.03723291124801,23.1836775227699,jawa_tengah
+330, Utami,lyulianti@kuswandari.web.id,fashion,1,2020-12-22,64.80215082575802,29.14545637016022,jawa_barat
+331,PT Pertiwi Maryati,psafitri@puspita.biz.id,fashion,1,2013-05-27,59.30208663982793,20.024850957147223,DKI_jakarta
+332,PT Safitri,jamal65@lazuardi.com,agribisnis,0,2006-03-23,68.51179853260425,43.11812290859862,jawa_barat
+333,PT Pudjiastuti Situmorang  ,melani.halima@hastuti.sch.id,kuliner,0,2016-04-13,52.58802138023713,65.82162958525657,jawa_tengah
+334,PD Haryanto  ,jessica20@fujiati.sch.id,fashion,1,2008-07-26,53.931478366213334,25.252079731013257,jawa_barat
+335,PT Namaga Rajasa ,gmayasari@irawan.asia,pengrajin_kulit,0,2011-03-21,53.789651479209105,39.75208166686542,jawa_tengah
+336,CV Susanti ,juli09@rajasa.ac.id,agribisnis,1,2002-11-15,34.53588904074069,21.95133876736396,jawa_barat
+337,CV Sudiati Wacana  ,mursinin.waluyo@yuniar.com,pengrajin_kulit,1,2002-07-04,32.88655584143447,13.31394220920047,DKI_jakarta
+338,PT Farida Wahyuni,bajragin61@widodo.name,pengrajin_kulit,0,2012-01-27,18.122650135453934,15.04726797601781,jawa_timur
+339, Adriansyah Haryant,lala.winarsih@santoso.desa.id,fashion,0,2003-12-03,45.748254590852355,5.6765081250635125,DKI_jakarta
+340,UD Adriansyah Nasyidah,soleh.zulaika@namaga.net,agribisnis,0,2020-12-13,21.474778893067402,66.5377617510721,jawa_timur
+341,PT Yolanda ,lidya.saragih@purnawati.org,fashion,0,2017-12-20,19.32315821447676,29.228619668900947,jawa_timur
+342,PD Mardhiyah Wijayanti,halim.saefullah@nurdiyanti.asia,fashion,0,2014-09-20,41.729442623278615,58.67377450590394,jawa_barat
+343,CV Laksmiwati Salahudin,rina.sinaga@fujiati.co.id,kuliner,1,2015-06-06,29.713597468005947,48.24117639525211,jawa_barat
+344,CV Mansur  ,julia.riyanti@oktaviani.com,kuliner,1,2012-07-01,16.663529248497486,14.824376901148911,DKI_jakarta
+345, Tamba,uchita.yuniar@mahendra.sch.id,pengrajin_kulit,1,2001-04-07,57.44030482388331,13.700562196420117,jawa_barat
+346,PD Nasyiah Prakasa  ,pbudiman@wahyudin.org,kuliner,1,2008-03-28,60.47971408941999,57.16255439914,jawa_timur
+347,PT Permata,widya29@agustina.mil.id,agribisnis,1,2010-05-31,13.170523203598885,19.79451560110201,jawa_barat
+348,UD Nashiruddin Saragih,suryatmi.cakrawangsa@laksita.asia,agribisnis,0,2019-03-23,2.232580199583991,64.0791123431709,jawa_barat
+349,UD Sudiati  ,irsad72@nasyidah.desa.id,fashion,0,2004-08-10,24.670954251185638,11.282983032198421,DKI_jakarta
+350,PT Suwarno Pudjiastuti,dabukke.zizi@sitompul.co,fashion,1,2010-06-08,56.17403986028178,47.993944194951176,DKI_jakarta
+351, Wijaya Kusum,wibisono.bambang@usada.org,kuliner,0,2007-03-24,59.01879158647967,57.332276255392166,jawa_timur
+352,PD Prayoga Wahyuni,dimas11@wijaya.sch.id,fashion,0,2002-10-27,11.165108907523841,17.78330620102024,DKI_jakarta
+353,PD Nasyidah Utama ,habibi.tedi@samosir.co,kuliner,1,2002-03-01,54.591655332778735,20.579438776814328,DKI_jakarta
+354,PD Purwanti,riyanti.kurnia@mandala.or.id,pengrajin_kulit,1,2007-09-03,9.620280543887842,67.5773495455847,jawa_tengah
+355,PT Utama,bhabibi@siregar.asia,fashion,1,2001-09-24,28.353473655887814,19.78672449303569,DKI_jakarta
+356,UD Hakim Dongoran,kmulyani@rajasa.biz.id,fashion,1,2001-05-30,69.90505768501362,31.077467367175263,jawa_tengah
+357,CV Melani Halim  ,mulyani.rahmat@winarno.net,kuliner,0,2007-05-15,14.870101410206523,31.252164706588758,jawa_timur
+358, Simbolon ,cemani10@thamrin.info,fashion,1,2004-03-29,12.232633418400333,18.997212725198793,DKI_jakarta
+359,CV Rahmawati  ,bnainggolan@firmansyah.co.id,kuliner,1,2011-08-26,30.58880670629506,54.69101538192454,jawa_timur
+360,PD Uwais  ,prasetyo.diah@nugroho.go.id,pengrajin_kulit,1,2000-05-15,44.03096695322214,54.42187315568672,jawa_timur
+361,CV Usada Mardhiyah  ,xharyanti@pangestu.co.id,agribisnis,1,2006-05-04,65.41846542317694,27.551554011200082,jawa_tengah
+362,UD Melani  ,mpermata@wastuti.my.id,agribisnis,1,2009-07-09,68.69046781699558,58.7423890149925,jawa_barat
+363,PT Wasita ,ani43@salahudin.desa.id,kuliner,0,2020-03-24,6.475062666460426,16.268756520763883,DKI_jakarta
+364,UD Samosir ,haryanto.cinthia@permata.co,fashion,0,2013-04-29,11.142470484514977,2.013998362589098,DKI_jakarta
+365,UD Mandala Usamah  ,bakidin.astuti@aryani.name,agribisnis,0,2018-06-30,55.71158885761846,40.719307481166,DKI_jakarta
+366,UD Janua,maulana.nadia@mayasari.tv,pengrajin_kulit,0,2007-03-18,20.19876335705435,69.59563030304841,jawa_timur
+367,CV Iswahyudi,karsa33@yolanda.web.id,agribisnis,0,2009-06-11,62.1374937830943,4.358633474979681,jawa_timur
+368,CV Mardhiyah Budiyanto ,hari59@winarno.name,agribisnis,0,2008-10-29,47.02058840360204,15.922108472813688,jawa_timur
+369,UD Widodo  ,irawan.bakidin@saptono.biz.id,fashion,1,2018-08-21,9.356763106552638,37.15149178901811,jawa_tengah
+370,CV Anggraini,dariati12@uyainah.my.id,kuliner,1,2020-02-23,58.5650995746112,57.02275348445577,jawa_timur
+371,PD Samosi,tirtayasa.mulyani@firgantoro.go.id,pengrajin_kulit,1,2020-03-18,13.76161362695142,7.799788106524634,DKI_jakarta
+372,PT Hutapea  ,cmayasari@narpati.web.id,pengrajin_kulit,1,2015-10-17,30.63626554872676,28.706622158657304,jawa_barat
+373,UD Saptono ,kanda.rajasa@riyanti.name,agribisnis,1,2010-07-26,39.42318692203105,52.73033566700864,jawa_timur
+374,PD Simbolon,usyi.uwais@utami.tv,agribisnis,1,2011-05-11,35.9123126592014,27.088970269986365,jawa_barat
+375,UD Gunarto  ,salwa.fujiati@prastuti.name,kuliner,0,2020-08-04,48.57120387820247,14.61375079007663,jawa_timur
+376,UD Prabowo Suartini,nsuartini@winarsih.name,fashion,1,2005-12-22,46.28545025687274,15.068455094638983,jawa_timur
+377, Susanti Suryono  ,kuswandari.samsul@hutasoit.tv,fashion,0,2007-04-13,69.45662813745558,29.718131170555807,jawa_timur
+378,PD Kuswandari Sihombing ,hassanah.tomi@safitri.asia,kuliner,0,2018-11-02,69.96052796182755,34.454597867746244,jawa_tengah
+379,CV Siregar ,xwulandari@puspasari.org,kuliner,1,2008-02-11,36.98384801196156,60.56468844847743,DKI_jakarta
+380,PT Laksmiwati,bmelani@prakasa.asia,kuliner,1,2004-12-08,8.220193657687794,45.572995139822595,jawa_tengah
+381,PD Agustina,nababan.yulia@putra.com,kuliner,0,2011-10-09,51.41714045358409,48.86064545431844,jawa_barat
+382, Aryani Pangestu ,michelle11@haryanti.org,fashion,0,2006-10-31,68.4066232606287,68.83836407247173,jawa_timur
+383,UD Hutapea  ,cpudjiastuti@novitasari.org,fashion,0,2018-09-16,23.45532574730951,29.840670103750487,DKI_jakarta
+384, Narpati,puti.mangunsong@rajasa.org,kuliner,0,2019-02-03,33.21134272498954,29.26103865385048,jawa_tengah
+385,UD Melani Situmorang ,whakim@wibowo.com,pengrajin_kulit,0,2006-06-05,30.72376842639933,64.76613095631846,DKI_jakarta
+386,PT Prayoga,nadia03@pranowo.go.id,kuliner,1,2011-02-14,5.230899873147137,18.508385080705402,jawa_timur
+387,CV Hardiansyah,nasyidah.akarsana@mayasari.tv,agribisnis,1,2020-08-31,47.62221536393681,51.55178501755974,jawa_barat
+388,PD Riyanti,azalea.prayoga@astuti.tv,pengrajin_kulit,1,2015-08-04,25.84589781927498,53.24225387753423,jawa_tengah
+389,PD Riyanti Utami,laksmiwati.gandi@pratama.tv,pengrajin_kulit,1,2004-07-12,55.48803335983897,8.396964465574854,DKI_jakarta
+390, Putra,kambali.mustofa@samosir.asia,fashion,1,2012-05-28,58.53715874025401,33.69084038075792,jawa_tengah
+391,CV Handayani Yuliarti ,harsaya53@budiman.go.id,kuliner,1,2013-01-07,57.793638108900886,15.414405541835709,DKI_jakarta
+392,PT Lestari Napitupulu  ,dartono38@pradipta.sch.id,kuliner,0,2013-09-21,30.169954346163014,14.377423626953723,jawa_timur
+393,CV Andriani,fujiati.shakila@wulandari.co.id,agribisnis,0,2000-07-10,23.675139183408618,33.39018338240519,jawa_tengah
+394,UD Nurdiyanti Nababan,nasyidah.jaka@riyanti.in,agribisnis,1,2006-04-15,52.84948283566651,21.482260428650676,jawa_tengah
+395,CV Sihombing,nadine.pradana@wacana.tv,fashion,0,2017-12-12,56.438870542781125,56.075007363894464,DKI_jakarta
+396,PT Yulianti Usamah ,lidya.laksita@prasasta.go.id,fashion,0,2005-01-25,35.26305843960248,63.69126198414214,jawa_tengah
+397, Prasetya,gara02@yolanda.go.id,agribisnis,0,2006-04-17,62.69615801393877,56.52976292908961,jawa_timur
+398,CV Safitri  ,yuliarti.kairav@tampubolon.or.id,fashion,1,2006-10-09,11.54608576824396,19.884587982607304,jawa_tengah
+399, Sitompul Adriansyah ,nasyidah.mahmud@haryanti.asia,agribisnis,0,2003-09-22,61.742816275113796,20.43789640105818,jawa_timur
+400,PT Sudiati Gunart,csaragih@nasyidah.net,pengrajin_kulit,1,2003-04-07,8.281382507320053,19.112851746020674,jawa_tengah
+401, Sinaga,uli.hutapea@yulianti.web.id,agribisnis,0,2007-04-15,12.202722645889038,10.9404011987198,jawa_timur
+402,PD Mulyani,jamil.zulaika@sinaga.asia,kuliner,0,2018-05-12,38.17059610634601,66.1625525741214,DKI_jakarta
+403,CV Purnawati  ,mandala.cici@hutapea.biz,fashion,0,2000-01-12,6.330161827196697,29.171823658164694,jawa_tengah
+404, Wijaya,natsir.reza@hutasoit.in,kuliner,0,2005-12-12,5.325668883599535,17.06179732199226,jawa_timur
+405, Permadi,bahuraksa09@rajasa.sch.id,kuliner,1,2001-04-10,1.7554198516343729,59.530699328702866,jawa_timur
+406,PD Adriansyah,cici11@wibisono.org,kuliner,0,2011-10-17,31.511701523924287,28.977055265473933,jawa_tengah
+407,PD Kusumo Maheswara ,kacung64@yuliarti.desa.id,agribisnis,0,2005-04-06,54.611318614633454,4.117775862568034,jawa_timur
+408,PT Irawan Simbolon,ghariyah@firmansyah.co.id,kuliner,1,2016-08-19,4.098762557112641,12.777370416644818,DKI_jakarta
+409,CV Tarihoran  ,karna42@wijayanti.ac.id,kuliner,1,2012-04-14,46.256149369488604,45.368013239519286,jawa_tengah
+410,PD Hidayat Yolanda  ,siti00@mahendra.desa.id,pengrajin_kulit,0,2016-06-17,57.92313323317721,55.176772120445314,DKI_jakarta
+411,PT Kusumo Waskita,maras.permata@maryati.net,fashion,1,2013-05-02,13.191097940897041,16.122600046009318,jawa_barat
+412,CV Puspasari Firgant,lhidayat@rajata.ac.id,kuliner,1,2009-03-16,11.747855813605483,64.35977083509219,jawa_barat
+413,PT Padmasari,kenari87@nuraini.com,agribisnis,0,2018-01-30,60.495490478810204,59.826083357161785,DKI_jakarta
+414,CV Suartini,fpratama@budiyanto.web.id,pengrajin_kulit,1,2010-01-01,57.922948367392465,59.64743788729061,DKI_jakarta
+415,PD Marpaung Prabowo  ,anggraini.yani@usada.or.id,fashion,1,2019-12-13,38.51894380051868,17.26470310345034,DKI_jakarta
+416,PT Ramadan  ,hsudiati@oktaviani.my.id,pengrajin_kulit,1,2020-11-21,57.654967758192974,5.17059730502594,jawa_timur
+417,UD Hartati Adriansyah  ,saragih.kacung@nasyidah.info,fashion,0,2012-05-15,8.053384966544503,60.94767927587081,DKI_jakarta
+418,PT Budiman,iswahyudi.rosman@marpaung.biz.id,pengrajin_kulit,0,2014-03-02,28.65519804485815,22.60003961826938,DKI_jakarta
+419,PT Tampubolon ,bagus.sudiati@salahudin.co.id,agribisnis,0,2005-05-15,52.09681713094314,43.979610506528346,DKI_jakarta
+420,UD Nuraini  ,nilam55@pratama.biz,kuliner,1,2017-02-09,19.29881978264022,53.610538819085846,jawa_timur
+421,PT Mayasari Yunia,kalim.agustina@zulaika.or.id,fashion,1,2014-02-07,53.08901827752298,10.479863691139286,DKI_jakarta
+422,CV Fujiati,indah39@mustofa.web.id,fashion,0,2018-12-15,36.14531510780477,55.03564284656059,DKI_jakarta
+423,CV Sirait Widodo  ,danuja.irawan@narpati.ac.id,kuliner,0,2005-08-10,52.94816165710535,65.80156241786158,jawa_timur
+424,CV Yolanda  ,vwaluyo@nainggolan.or.id,pengrajin_kulit,1,2016-07-16,33.44832567289846,51.45344266116481,jawa_tengah
+425,UD Oktaviani ,caturangga75@jailani.sch.id,kuliner,1,2009-11-16,26.840508350345708,31.846689266252504,DKI_jakarta
+426,CV Laksita Utama  ,indra.usamah@napitupulu.or.id,pengrajin_kulit,1,2003-11-21,16.686239701161014,61.579583313966275,jawa_barat
+427,CV Usada ,rahmi.mustofa@yuniar.ac.id,fashion,0,2003-08-06,15.948141433182826,37.734806981354325,DKI_jakarta
+428,UD Nasyidah Rahimah,wpratiwi@zulkarnain.com,kuliner,1,2011-10-22,53.031792545814916,52.57295895132797,DKI_jakarta
+429, Wulandari Maheswara,habibi.hilda@pudjiastuti.ac.id,agribisnis,0,2006-09-16,9.839198563758824,57.74414584666549,DKI_jakarta
+430,CV Mayasari ,irfan07@pratiwi.co.id,kuliner,1,2002-02-20,7.5908748655753335,52.885813396808125,jawa_barat
+431,UD Usada Puspasari,caket.gunawan@usada.co.id,pengrajin_kulit,0,2008-12-20,13.757174403711048,21.374730936567953,jawa_tengah
+432,CV Suryono Hassanah  ,nababan.johan@nainggolan.sch.id,fashion,0,2013-09-17,13.692659802073788,9.766381553850147,jawa_tengah
+433, Prayoga Purwanti  ,uchita39@mangunsong.web.id,kuliner,0,2006-09-12,57.921788485255114,17.993754784841464,jawa_timur
+434,UD Dongoran Putra  ,maryati.galih@hutagalung.tv,agribisnis,1,2020-01-24,28.93003225081922,36.05630069701852,DKI_jakarta
+435,PD Prastuti ,ulatupono@marbun.my.id,fashion,1,2016-05-15,69.34372386857373,36.220308254172586,jawa_timur
+436,PD Hakim Nurdiyanti  ,dhutagalung@nugroho.net,agribisnis,0,2010-10-08,11.088784681943014,41.50295617119662,jawa_barat
+437,PT Sihombing Narpati ,xmelani@iswahyudi.tv,kuliner,1,2019-08-18,46.34369929836197,28.697553467769986,jawa_tengah
+438,CV Nasyiah Farida  ,lsihotang@puspasari.sch.id,agribisnis,0,2009-02-03,32.35925075170139,55.44894352540789,jawa_timur
+439, Pranowo Anggriawan,indah23@putra.asia,pengrajin_kulit,0,2002-12-07,28.54845310487621,64.07013807370735,jawa_barat
+440,CV Hidayanto  ,yulia.safitri@mayasari.asia,pengrajin_kulit,0,2000-10-01,61.47074911141274,18.5663866515783,jawa_timur
+441,CV Putra  ,warsita.lailasari@kuswandari.go.id,agribisnis,1,2019-09-13,68.33367069716313,52.00980530468491,DKI_jakarta
+442,UD Andriani,gusamah@iswahyudi.ac.id,fashion,0,2020-02-27,61.318809705100925,48.01191809177565,jawa_barat
+443,PD Suwarno ,firgantoro.kasiyah@suartini.in,pengrajin_kulit,1,2015-07-11,14.850290364518886,37.436619290791626,DKI_jakarta
+444,PD Megantara,alika03@hidayanto.sch.id,agribisnis,0,2002-03-01,16.796082060146016,14.592844368927661,jawa_tengah
+445,PT Mangunsong Kusum,kenes87@permadi.web.id,fashion,0,2006-03-02,46.516724464610924,56.0184586160274,DKI_jakarta
+446,PD Wacana ,mwibisono@zulkarnain.mil.id,fashion,0,2000-11-11,21.458626954255728,67.3115627827367,DKI_jakarta
+447, Usamah Hassanah,cengkir64@januar.mil.id,agribisnis,1,2001-01-28,51.887031929698,51.006984764911124,jawa_timur
+448,PT Pangestu Haryanti,wdamanik@tamba.net,kuliner,0,2005-03-02,40.39520203728254,64.39148056960512,jawa_timur
+449,CV Mangunsong Sirega,wibisono.gading@yulianti.asia,pengrajin_kulit,1,2012-01-06,39.33605071252471,68.92016989064942,jawa_tengah
+450,CV Hidayat Pratama  ,nurul18@wastuti.co.id,pengrajin_kulit,1,2001-05-17,58.29318402799229,25.758020037055182,jawa_tengah
+451,PD Puspasari Marpaung,jagapati.sitorus@anggriawan.my.id,kuliner,0,2020-09-04,50.23517765459004,45.29790419381028,DKI_jakarta
+452,UD Kurniawan,banara.yulianti@prasasta.sch.id,pengrajin_kulit,1,2009-07-23,3.5347297940150773,34.08012732592796,jawa_barat
+453,PT Puspita Prasasta,setiawan.ina@yuliarti.com,fashion,1,2005-07-16,5.097069884329951,69.08701083582135,jawa_timur
+454,CV Uyainah  ,vicky.tamba@susanti.go.id,kuliner,0,2010-11-02,42.79441113369675,8.125198223247457,jawa_tengah
+455, Jailani Pratama ,heryanto.kuswoyo@pratama.asia,pengrajin_kulit,0,2016-08-05,34.91719492348897,29.876959148214496,jawa_tengah
+456,PT Pudjiastuti Pratiwi,hana.haryanti@pratama.name,kuliner,0,2006-07-25,19.48540826681945,61.501805960319686,jawa_timur
+457,PD Usamah,hastuti.irma@maryati.asia,pengrajin_kulit,1,2000-12-30,30.305837641854655,21.115023482750473,DKI_jakarta
+458,PT Thamrin Prasety,prima60@agustina.co.id,agribisnis,0,2001-01-25,53.47011656307971,55.51049584162223,DKI_jakarta
+459, Winarno Santoso ,dono32@latupono.in,kuliner,1,2017-11-22,58.16103217244346,27.85643435463586,jawa_barat
+460,PD Firmansyah Wacana,intan76@tarihoran.desa.id,fashion,1,2002-05-06,40.040311075532216,68.6329347037,jawa_tengah
+461,PD Melani Safitri,namaga.raisa@tarihoran.web.id,kuliner,1,2013-05-07,28.03302815292299,62.04741723101075,jawa_timur
+462,PT Yulianti Suartini,mrajasa@nashiruddin.info,pengrajin_kulit,0,2008-01-28,20.203174874885907,22.294154021203376,jawa_barat
+463,CV Gunarto Wijaya,zelda55@simanjuntak.or.id,kuliner,1,2016-04-30,37.35659318412463,54.308785792364745,jawa_timur
+464,UD Wijayanti Mandasari,dpangestu@utami.info,fashion,0,2001-04-09,23.211103955575933,24.720564812935585,DKI_jakarta
+465, Pudjiastuti Haryanti ,galak.saputra@hariyah.biz,pengrajin_kulit,0,2018-11-08,40.23641595758438,43.12245472991674,DKI_jakarta
+466,CV Permadi Mayasari,adika.latupono@sitorus.org,fashion,0,2014-08-30,47.92182467775806,46.681066865893975,jawa_tengah
+467,PD Puspita Maryati,laksita.fitriani@hassanah.org,agribisnis,0,2009-06-08,6.23188852157628,58.36477453237193,DKI_jakarta
+468,PD Maulana Thamrin,hilda60@setiawan.biz.id,agribisnis,0,2004-05-07,1.7928865117531814,3.389503415423976,jawa_timur
+469,UD Nainggolan Suwarno  ,wacana.manah@marpaung.ac.id,pengrajin_kulit,0,2020-07-09,16.214283040045927,16.75238080787902,jawa_barat
+470,CV Prabowo Mandasari,ajiman42@hakim.name,fashion,0,2006-05-06,62.79724506423837,50.329748106988156,jawa_timur
+471,PD Rahimah Astuti  ,elon.pudjiastuti@permadi.mil.id,fashion,0,2010-04-20,45.84873331324602,40.19736662028001,DKI_jakarta
+472,PD Hardiansyah Nainggolan  ,wijayanti.jagaraga@riyanti.biz.id,kuliner,1,2008-04-11,13.461452830259923,35.55991473957405,DKI_jakarta
+473,CV Namaga Maryati  ,kunthara.gunarto@rajata.go.id,pengrajin_kulit,0,2004-11-03,62.50722331331669,5.489735844020905,jawa_tengah
+474,CV Simbolon Suartini  ,ani.astuti@uwais.in,kuliner,1,2008-09-30,33.808591602819575,25.50027732274823,jawa_barat
+475,PD Jailani Rahimah ,mahfud.maryadi@susanti.desa.id,agribisnis,1,2003-03-08,34.22754514601895,60.789043834859065,jawa_barat
+476, Ramadan,hutagalung.victoria@pratiwi.asia,fashion,1,2000-01-13,65.59880392557649,3.8293629128202777,jawa_timur
+477,PD Halimah ,waskita.vanesa@laksmiwati.net,agribisnis,1,2006-02-02,5.781751342278456,28.788666150709368,jawa_barat
+478, Hidayat Hakim,rusman77@yuniar.desa.id,fashion,1,2002-05-09,16.4123725916489,66.25472508216035,jawa_barat
+479,PT Winarno Sirait,darmaji11@winarsih.biz,agribisnis,1,2008-09-16,41.71646608156445,5.194136554733599,jawa_tengah
+480,PT Napitupulu Thamrin,rsiregar@pertiwi.ac.id,kuliner,1,2018-02-13,15.06781887425924,52.9099086813278,jawa_tengah
+481,UD Winarsih,wahyuni.nrima@saragih.my.id,agribisnis,1,2003-06-01,48.11810418878764,19.309789432909447,jawa_timur
+482, Astuti,prabowo.jindra@usada.in,pengrajin_kulit,0,2000-01-10,16.338221515911254,60.892051059452754,jawa_barat
+483,PT Haryanto ,karya.salahudin@jailani.tv,fashion,0,2002-05-02,8.490437952487044,52.66152160334545,DKI_jakarta
+484,PD Wasita Narpati,sadina.susanti@puspita.biz.id,pengrajin_kulit,1,2010-09-03,15.852946700276538,62.19594906620902,jawa_barat
+485,UD Rahayu Susanti  ,darmana.kurniawan@suryatmi.com,fashion,0,2005-10-09,30.58427986009641,16.463344690646842,jawa_timur
+486, Oktaviani Nasyidah,mariadi75@thamrin.net,fashion,1,2010-04-12,13.746723067537895,37.99666929901434,jawa_tengah
+487,PD Mulyani,mhastuti@iswahyudi.co.id,fashion,0,2000-08-12,10.916771461766155,54.92855174728739,DKI_jakarta
+488,CV Prasetya ,jindra51@napitupulu.in,pengrajin_kulit,0,2006-12-30,60.46004719102928,18.4963784516973,DKI_jakarta
+489,CV Pangestu Waskita ,mardhiyah.olivia@wahyuni.mil.id,agribisnis,1,2008-08-12,23.596721061624176,17.475357723645573,jawa_barat
+490,PT Haryanti Samosir  ,prabowo.rajata@saragih.org,agribisnis,1,2009-01-21,26.352603115466355,3.5759960752151057,jawa_tengah
+491,PD Prasetya ,ajeng.budiman@thamrin.net,kuliner,1,2011-07-29,5.493863560743823,67.16742427264388,jawa_timur
+492, Putra Situmorang,restu.lazuardi@rahmawati.sch.id,agribisnis,0,2016-05-23,26.121197892720257,50.19995257012968,jawa_barat
+493,UD Saptono Mahendra,aswani48@thamrin.net,fashion,1,2009-10-24,19.80103406751746,45.11606097181542,jawa_tengah
+494,PT Wastuti  ,cayadi.siregar@suryono.org,agribisnis,1,2017-08-31,43.40392039809732,52.519959665613975,jawa_tengah
+495,PD Sant,tomi.mulyani@simanjuntak.asia,kuliner,1,2011-02-15,15.74404952507193,38.0185300885246,jawa_barat
+496,PD Narpati  ,ikuswandari@kuswoyo.ac.id,pengrajin_kulit,1,2005-06-20,62.37759313513075,34.23041730405322,DKI_jakarta
+497,UD Haryanti Yolanda ,purwanti.pangeran@aryani.go.id,fashion,1,2004-10-22,65.19763687638722,32.414061423914006,jawa_timur
+498,PT Hartati,gandi46@uyainah.ac.id,fashion,1,2006-10-09,8.536464584031235,45.44918940243663,jawa_timur
+499,PT Kuswandari ,situmorang.halima@pratiwi.info,agribisnis,0,2012-07-19,9.053473855384052,15.480808119791925,jawa_barat
+500, Farida,mila10@hutagalung.sch.id,agribisnis,1,2005-02-03,9.594489194218259,62.3566476956153,jawa_tengah
